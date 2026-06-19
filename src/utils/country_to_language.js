@@ -61,6 +61,7 @@ const countryToLanguage = {
     SG: 'en',
     ID: 'id',
     PH: 'fil',
+    IL: 'he',
     IN: 'hi',
     PK: 'ur',
     BD: 'bn',
